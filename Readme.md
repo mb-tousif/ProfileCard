@@ -16,5 +16,5 @@ npx expo start
 ## UI
 
 <div>
-<img src="./assets/screenshot.png" align="center" width="100%" height="300px" style="border-radius: 30px;">
+<img src="./assets/screenshot.png" align="center" width="100%" height="100%" style="border-radius: 30px;">
 </div>
